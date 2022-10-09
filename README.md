@@ -1,5 +1,6 @@
 # Java-RMI-Chat-Project
-### Simple application to make chatting between multi clients. And send Images, videoes, imogies, and any files
+### eclipse-IDE
+##### Simple application to make chatting between multi clients. And send Images, videoes, imogies, and any files
 ![loginI![main3](https://user-images.githubusercontent.com/96502377/194675846-0a1457bb-fc70-4283-a342-1a3d0ec105cc.jpg)
 ![sginUpEmpty](https://user-images.githubusercontent.com/96502377/194675923-5b5e208e-5d2e-4c49-a573-a7ffc50a6bf5.png)
 ![addNewPerson](https://user-images.githubusercontent.com/96502377/194675952-401d4b57-efd2-43b9-ae86-f8dfa9ac3aee.jpg)
